@@ -18,7 +18,7 @@ import junit.framework.Assert;
 
 public class DealStepWithMapDefinition {
 	
-	// datatable with map for parameterization of test cases
+	// datatable with map for parameterization of test cases :  method asMap();
 
 	WebDriver driver;
 
