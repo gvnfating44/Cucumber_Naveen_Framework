@@ -1,6 +1,6 @@
 Feature: Deal data creation
 
-Scenario: Free CRM Create a new contact Scenario
+Scenario: Free CRM Create a new dael Scenario
     Given User is already on Login Page
     When title of login page is Cogmento CRM
     Then user enter username and password

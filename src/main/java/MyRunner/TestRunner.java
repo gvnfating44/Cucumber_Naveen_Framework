@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="F:\\Govind\\SeleniumWorkspace\\Naveen_FreeCrmDD_Framework_May2021\\src\\main\\java\\Features\\deals.feature",
+		features="F:\\Govind\\SeleniumWorkspace\\Naveen_FreeCrmDD_Framework_May2021\\src\\main\\java\\Features\\dealsmap.feature",
 		glue= {"stepDefinitions"},
 		format= {"pretty","html:test-output","json:json-output/cucumber.json","junit:junit-output/cucumber.xml"}, // to generate different type of report
 		monochrome=true,    //  display the console output in a proper readable format

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="29.416365">
-    <testcase classname="Deal data creation" name="Free CRM Create a new contact Scenario" time="29.416365">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="37.26497">
+    <testcase classname="Deal data creation" name="Free CRM Create a new deal Scenario" time="37.26497">
         <system-out>
             <![CDATA[Given User is already on Login Page.........................................passed
 When title of login page is Cogmento CRM....................................passed
